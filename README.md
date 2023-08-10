@@ -205,7 +205,7 @@ void shoppinglist :: add()
     }
     }
     
-    cout<<"\n\t\t\tRecord Insterted";
+    cout<<"\n\t\t\tRecord Inserted";
 }
 void shopping :: edit()
 {
